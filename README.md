@@ -126,11 +126,6 @@ func main() {
 ### `$ git log --stat`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basil-eldho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&icon_color=00ff41&title_color=00ff41&border_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basil-eldho&layout=compact&langs_count=6&theme=github_dark&title_color=00ff41&border_color=00ff41"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basil-eldho&theme=github-dark-blue&hide_border=false&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
 </p>
 
