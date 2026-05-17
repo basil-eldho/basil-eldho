@@ -18,7 +18,7 @@
 ### `$ whoami`
 
 🧠 &nbsp;Deep interest in **OS internals, networking, distributed systems, and performance engineering**\
-🔬 &nbsp;Built **gowaite** — eBPF uprobes on `runtime.schedule`, `gcSTW`, `park`, `goready`\
+🔬 &nbsp;Building **gowaite** — eBPF uprobes on `runtime.schedule`, `gcSTW`, `park`, `goready`\
 💼 &nbsp;3+ yrs production Go at **Altro** (YC-backed fintech) & **Privcy AI** (London)\
 📝 &nbsp;Writing about internals at **[latencylog.tech](https://latencylog.tech)**\
 🎓 &nbsp;MS CS @ SUNY Binghamton (GPA 3.7, Dec 2026)\
