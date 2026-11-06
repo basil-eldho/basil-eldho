@@ -41,7 +41,6 @@ Mostly Go and C, on Linux and Kubernetes.
 *schedulers, virtual memory, syscalls, eBPF tracing*
 
 - [kubevirt-lab](https://github.com/basil-eldho/kubevirt-lab): golden Ubuntu 24.04 and Windows 10 images built with Packer, run as KubeVirt VMs on a single-node kind cluster, opened in a browser. [Written up here](https://latencylog.tech/kubevirt-packer-guacamole-desktops/).
-- [kubevirt-vm](https://github.com/basil-eldho/kubevirt-vm): throwaway browser-based Ubuntu desktop VMs for workshops and training.
 - gowaite: eBPF uprobes on Go's runtime scheduler (`runtime.schedule`, `gcSTW`, `park`, `goready`) for live goroutine anomaly detection. Not public yet.
 
 <picture>
