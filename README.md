@@ -6,6 +6,11 @@ Three years of production Go at QBurst (APIs for UNIQLO Japan and US) and Altro 
 
 [latencylog.tech](https://latencylog.tech) · [linkedin](https://linkedin.com/in/basil-eldho) · [email](mailto:basileljol@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/strata-dark.svg">
+  <img src="assets/strata-light.svg" width="520" alt="A cross-section of the ground in layers labelled app, tcp/ip, kernel and silicon. Someone at the surface lowers a lantern down a shaft toward a crack in the kernel layer.">
+</picture>
+
 ### Projects
 
 - [kubevirt-lab](https://github.com/basil-eldho/kubevirt-lab): golden Ubuntu 24.04 and Windows 10 images built with Packer, run as KubeVirt VMs on a single-node kind cluster, opened in a browser. [Written up here](https://latencylog.tech/kubevirt-packer-guacamole-desktops/).
@@ -15,11 +20,6 @@ Three years of production Go at QBurst (APIs for UNIQLO Japan and US) and Altro 
 - gowaite: eBPF uprobes on Go's runtime scheduler (`runtime.schedule`, `gcSTW`, `park`, `goready`) for live goroutine anomaly detection. Not public yet.
 
 ### By layer
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/strata-dark.svg">
-  <img src="assets/strata-light.svg" width="520" alt="A cross-section of the ground in layers labelled app, tcp/ip, kernel and silicon. Someone at the surface lowers a lantern down a shaft toward a crack in the kernel layer.">
-</picture>
 
 ```
 app       consensus, replication, consistency, fault tolerance
